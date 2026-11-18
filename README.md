@@ -113,6 +113,17 @@ The dashboard's default sentiment mode uses a simple lexicon-based baseline: it 
 
 The dashboard is intended as a practical exploratory tool rather than a production sentiment system. Results should be reviewed in context, and more robust performance will generally require a larger labeled dataset and a validated model.
 
+
+## Author
+Sourodip Das Gupta
+
+Data Science / NLP / AI Enthusiast Student
+
+Email: sourodipdasgupta283@gmail.com
+
+linkedIn: www.linkedin.com/in/sourodip-das-gupta-3b97a62a6
+
+
 ## Contributing
 
 Contributions are welcome. For example, useful improvements include:
