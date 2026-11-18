@@ -1,0 +1,11 @@
+review_id,review_text,rating,product_category,review_date
+1,"Excellent battery life and fast performance. I am very happy with this purchase.",5,Electronics,2024-01-15
+2,"The delivery was late and the package arrived damaged. Very disappointed.",1,Electronics,2024-01-18
+3,"Good product for the price, but customer service was slow to respond.",3,Home,2024-02-02
+4,"Great quality and beautiful packaging. Would definitely recommend.",5,Fashion,2024-02-10
+5,"The product stopped working after two weeks. Poor quality and waste of money.",1,Electronics,2024-02-14
+6,"Affordable and useful. The delivery was quick and packaging was good.",4,Home,2024-03-01
+7,"Customer service helped me get a replacement quickly. Excellent support.",5,Electronics,2024-03-08
+8,"The material feels cheap and it broke easily. Not worth the price.",2,Fashion,2024-03-15
+9,"Average product. Does what it says but nothing special.",3,Home,2024-04-01
+10,"Fast shipping, good battery life, and excellent value for money.",5,Electronics,2024-04-12
